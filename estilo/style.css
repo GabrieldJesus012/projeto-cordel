@@ -8,14 +8,14 @@
 
 @font-face {
     font-family: 'Passion one';
-    src: url(/fonte/Passion_One/PassionOne-Regular.ttf) format('truetype');
+    src: url(../fonte/Passion_One/PassionOne-Regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:'Sriracha';
-    src: url(/fonte/Sriracha/Sriracha-Regular.ttf) format('truetype');
+    src: url(../fonte/Sriracha/Sriracha-Regular.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
